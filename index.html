@@ -4,18 +4,41 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Marvel Movies<a</title>
+    <meta name="description" content="Marvel Cinematic Universe">
+
+    <!-- CSS -->    
+    <link rel="stylesheet" href="/styles.css">
+    
+        <title>Marvel Cinematic Movies</title>
 </head>
 <body>
-    <button class="btn">Marvel</button>
-    <h2>Marvel Movies</h1>
-    <h1 class="mTitle">Movie Title</h1>
-    <h3 class="release">Release date</h3>
-    <h3 class="directed">Directed by</h3>
-    <p class="description">Description</p>
-    <img src="" alt="">      
-    <video class="video" src="https://players.brightcove.net/5359769168001/rkg9u15t7b_default/index.html?videoId=5738791807001" muted autoplay></video>
-   
+    <section class="overlay">
+       
+    <section class="topSection">
+        <div class="right">
+            <img src="" alt="">
+        </div>
+        <div class="left">  
+            <div class="nav">
+            <button class="backBtn">back</button>
+            <button class="btn">Marvel</button>    
+            <button class="forwardBtn">forward</button>
+        </div>            
+            <h1 class="mTitle">Movie Title</h1>
+            <h3 class="directed">Directed by</h3>
+            <h3 class="release">Release date</h3>            
+            <p class="description">Description</p>
+            <p><a href="" class="imdb" target="_blank" rel="noopener noreferrer"></a></p>
+        </div>        
+    </section>    
+    <span class="trailer">
+        <iframe class="video" src=""
+        allowfullscreen=""
+        allow="encrypted-media"
+        width="1280" height="720"></iframe>
+        </span>  
+    
+   </section>
 </body>
 
 <script src="main.js"></script>
