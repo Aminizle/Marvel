@@ -1,4 +1,4 @@
-document.querySelector('.btn').addEventListener('click', getMarvel)
+
 document.querySelector('.backBtn').addEventListener('click', lastMarvel)
 document.querySelector('.forwardBtn').addEventListener('click', nextMarvel)
 window.onload = getMarvel //starts the user on their journey
