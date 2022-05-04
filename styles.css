@@ -3,6 +3,7 @@
 * {
     font-family: 'Poppins', sans-serif;
     color: whitesmoke;
+    --accent-color: #B20600;
 }
 
 
@@ -17,9 +18,10 @@
 }
 
 img {
-    box-shadow: 0 0 70px;
+    box-shadow: 0 0 45px;
     transition: 5s color;
     height: 900px;
+    border-radius: 7px;
     
 
 }
@@ -35,13 +37,18 @@ button {
     font-size: 1em;
     font-weight: 800;
     line-height: 1em; 
-    background-color: black;
+    background-color: var(--accent-color);
     color: #fff;
-    border-radius: 6px;
+    border-radius: 7px;
+    padding: 10px;
+    margin-right: 10px;
   }
 
 button:hover {
     cursor: pointer;
+    background-color: #fff;
+    color: var(--accent-color);
+    text-decoration: underline;
   }
 
   .nav {
@@ -58,6 +65,7 @@ button:hover {
     font-size: 5em;
     font-weight: 800;
     line-height: 1em; 
+    text-decoration: underline;
     
   }
   
@@ -103,5 +111,6 @@ button:hover {
 }
 
 .social li a:hover {
-    transform: scale(2) translateY(-10px);
+    transform: scale(2) translateY(-5px);
+   
 }
