@@ -7,13 +7,13 @@ window.onload = getMarvel //starts the user on their journey
 let index = 1 //start at the first movie
 
 function lastMarvel(){
-if(index>1 && index<30){ //prevents the user from going beyond the first & last movie
+if(index>1 && index<41){ //prevents the user from going beyond the first & last movie
     index--
     getMarvel(index)
 }}
 
 function nextMarvel(){
-    if(index>0 && index<29){ 
+    if(index>0 && index<40){ 
         index++
         getMarvel(index)
 }}
