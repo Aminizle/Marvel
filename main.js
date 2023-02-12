@@ -31,7 +31,9 @@ fetch(`https://mcuapi.herokuapp.com/api/v1/movies/${index}`)
         document.querySelector('.release').innerText = `Release date: ${data.release_date}`
         document.querySelector('.directed').innerText = `Directed by: ${data.directed_by}`
         document.querySelector('iframe').src = data.trailer_url        
-        document.querySelector('.imdb').innerText = `IMDB`
+        document.querySelector('.trailer').src = data.trailer_url        
+        document.querySelector('.trailer').innerText = `Watch the Trailer for ${data.title}`
+        document.querySelector('.imdb').innerText = `Explore ${data.title} on IMDB`
         document.querySelector('.imdb').href = `https://www.imdb.com/title/${data.imdb_id}`
 
 });
