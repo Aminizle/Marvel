@@ -1,4 +1,5 @@
    <h1>Marvel Cinematic Universe Explorer</h1>
+   <p>Embark on an epic journey through the Marvel Cinematic Universe on this site! Get the inside scoop straight from Marvel, with the latest information powered by their very own API. Experience the magic of your favorite movies like never before with stunning cinema posters, heart-pumping trailers, director information, IMDB links, social media, and release dates all at your fingertips. Dive into the story and immerse yourself in the world of each film with engaging descriptions that bring the action to life.</p>
 
 <h3 align="center" color="white">Marvel Cinematic Universe - Explorer</h2>
 				<div align="center" >  
@@ -8,16 +9,14 @@
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/Aminizle/Marvel" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
+						
 						<a href="https://marvel-cinematic-universe.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
 						</a>	
 					</p>
-					<p><strong>JavaScript, CSS3, HTML5</strong> - Platform for Marvel Cinematic Universe fans to find general information about their favorite movies!</p>
+					<p><strong>JavaScript, CSS3, Bootstrap, HTML5</strong> - Platform for Marvel Cinematic Universe fans to find general information about their favorite movies!</p>
           </div>
-<p>Embark on an epic journey through the Marvel Cinematic Universe on this site! Get the inside scoop straight from Marvel, with the latest information powered by their very own API. Experience the magic of your favorite movies like never before with stunning cinema posters, heart-pumping trailers, director information, IMDB links, social media, and release dates all at your fingertips. Dive into the story and immerse yourself in the world of each film with engaging descriptions that bring the action to life.</p>
+
 
 <h2>Tech Stack</h2>
 
@@ -41,7 +40,7 @@
 
 <h2>Demo</h2>
 
-<p>You can see a live demo of this project at <a href="https://example.com">https://example.com</a>.</p>
+<p>You can see a live demo of this project at <a href="https://marvel-cinematic-universe.netlify.app/">https://marvel-cinematic-universe.netlify.app/</a>.</p>
 
 <h2>Installation</h2>
 
@@ -54,6 +53,7 @@
 <h2>Credits</h2>
 
 <p>This project was built using the Marvel API. Thanks to Marvel for providing the data used in this project.</p>
+https://github.com/AugustoMarcelo/mcuapi
 
 <h2>License</h2>
 
@@ -62,7 +62,7 @@
 
 
 
-https://github.com/AugustoMarcelo/mcuapi
+
 
 
 &nbsp&nbsp&nbsp
