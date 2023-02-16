@@ -6,15 +6,15 @@
 	<a href='https://marvel-cinematic-universe.netlify.app/'>
 		<img src="Marvel.gif" alt="Marvel Cinematic Universe Explorer" height="100%" />
 		</a>
-					<br>
-					<br>
-					<p>
+	<br>
+		<br>
+	<p>
 						
-		<a href="https://marvel-cinematic-universe.netlify.app/" target="_blank">
-			<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
-		</a>	
+<a href="https://marvel-cinematic-universe.netlify.app/" target="_blank">
+	<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
+</a>	
 	</p>
-	<p><strong>JavaScript, CSS3, Bootstrap, HTML5</strong> - Platform for Marvel Cinematic Universe fans to find general information about their favorite movies!</p>
+<p><strong>JavaScript, CSS3, Bootstrap, HTML5</strong> - Platform for Marvel Cinematic Universe fans to find general information about their favorite movies!</p>
           </div>
 
 
@@ -66,3 +66,4 @@ https://github.com/AugustoMarcelo/mcuapi
 
 
 &nbsp&nbsp&nbsp
+<p align="center">Made with ❤ by Ameen</p>
