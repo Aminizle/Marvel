@@ -1,7 +1,7 @@
    <h1>Marvel Cinematic Universe Explorer</h1>
    <p>Embark on an epic journey through the Marvel Cinematic Universe on this site! Get the inside scoop straight from Marvel, with the latest information powered by their very own API. Experience the magic of your favorite movies like never before with stunning cinema posters, heart-pumping trailers, director information, IMDB links, social media, and release dates all at your fingertips. Dive into the story and immerse yourself in the world of each film with engaging descriptions that bring the action to life.</p>
 
-<h3 align="center" color="white">Marvel Cinematic Universe - Explorer</h2>
+<h3 align="center" color="white">Marvel Cinematic Universe - Explorer</h3>
 				<div align="center" >  
 	<a href='https://marvel-cinematic-universe.netlify.app/'>
 		<img src="Marvel.gif" alt="Marvel Cinematic Universe Explorer" height="100%" />
